@@ -42,5 +42,5 @@ The Main developers are: Kimberly Solon, [Xavier Flores-Alsina](https://github.c
 
 This version of the model is adapated to be run in Matlab 2019b (or newer).
 
-[![ADM](https://img.shields.io/badge/DOWNLOAD%20BSM2%20with%20ion%20activity%20corrections-990000?style=for-the-badge)](https://github.com/wwtmodels/Plant-Wide-Models/releases/download/BSM2_ionactivity/BSM2_ionactivity.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Plant-Wide-Models/BSM2_ionactivity/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Plant-Wide-Models) 
+[![ADM](https://img.shields.io/badge/DOWNLOAD%20BSM2%20with%20ion%20activity%20corrections-990000?style=for-the-badge)](https://github.com/wwtmodels/Plant-Wide-Models/releases/download/v4/BSM2.PSFe.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Plant-Wide-Models/v4/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Plant-Wide-Models) 
 
