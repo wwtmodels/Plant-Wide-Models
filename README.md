@@ -26,7 +26,7 @@ This version of the model is adapated to be run in Matlab 2019b (or newer).
 
 <strong>3. BSM2 with ion activity corrections </strong>  
 
-The Main developers are: Kimberly Solon, [Xavier Flores-Alsina](https://github.com/xfalsina), Damien Batstone, Krist V. Gernaey and [Ulf Jeppsson](https://github.com/ulfjeppsson). The model is described in the following paper: 
+The Main developers are: Kimberly Solon, [Xavier Flores-Alsina](https://github.com/xfalsina),Christian Kazadi-Mbamba, Damien Batstone, Krist V. Gernaey and [Ulf Jeppsson](https://github.com/ulfjeppsson). The model is described in the following paper: 
 
 [Solon, K., Flores-Alsina, X., Mbamba, C. K., Volcke, E. I. P., Tait, S., Batstone, D., Gernaey, K. V., & Jeppsson, U. (2015). Effects of ionic strength and ion pairing on (plant-wide) modelling of anaerobic digestion. Water Research, 70, 235–245.](https://doi.org/10.1016/j.watres.2014.11.035). 
 
@@ -36,7 +36,7 @@ This version of the model is adapated to be run in Matlab 2019b (or newer).
 
 <strong>4. BSM2 with P, S and Fe interactions </strong>  
 
-The Main developers are: Kimberly Solon, [Xavier Flores-Alsina](https://github.com/xfalsina), Damien Batstone, Krist V. Gernaey and [Ulf Jeppsson](https://github.com/ulfjeppsson). The model is described in the following paper: 
+The Main developers are: Kimberly Solon, [Xavier Flores-Alsina](https://github.com/xfalsina), Christian Kazadi-Mbamba, Damien Batstone, Krist V. Gernaey and [Ulf Jeppsson](https://github.com/ulfjeppsson). The model is described in the following paper: 
 
 [Solon. K, Flores-Alsina X, Kazadi-Mbama C., Ikumi D, Volcke E.I.P, Vaneeckhaute C., Ekama G., Vanrolleghem P.A, Batstone D.J, Gernaey K.V., Jeppsson U.(2017) Plant-wide modelling of phosphorus transformations in biological nutrient removal wastewater treatment systems: Impacts of control and operational strategies. Water Research, 113, 97-110.](https://doi.org/10.1016/j.watres.2017.02.007). 
 
