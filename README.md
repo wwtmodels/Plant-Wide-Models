@@ -15,7 +15,7 @@ This version of the model is adapated to be run in Matlab 2019b (or newer).
 
 <strong>2. BSM2 with GHG emissions </strong>  
 
-The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina), Laura Snip, Lluis Corominas, Peter A Vanrolleghem, Krist V. Gernaey and [Ulf Jeppsson](https://github.com/ulfjeppsson). The model is described in the following paper: 
+The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina), Laura Snip, Lluis Corominas, [Peter A Vanrolleghem] (https://github.com/modelEAU), Krist V. Gernaey and [Ulf Jeppsson](https://github.com/ulfjeppsson). The model is described in the following paper: 
 
 [Flores-Alsina, X., Arnell, M., Amerlinck, Y., Corominas, Ll., Gernaey, K.V., Guo, L., Lindblom, E., Nopens, I., Porro, J., Shaw, A., Snip, L., Vanrolleghem and P.A., Jeppsson, U. (2014). Balancing effluent quality, economical cost and greenhouse gas emissions during the evaluation of plant-wide wastewater treatment plant control strategies. Sci. Tot. Env., 466-467, 616-624.](https://doi.org/10.1016/j.scitotenv.2013.07.046). 
 
