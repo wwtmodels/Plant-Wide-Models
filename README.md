@@ -13,7 +13,7 @@ This version of the model is adapated to be run in Matlab 2019b (or newer).
 
 [![ADM](https://img.shields.io/badge/DOWNLOAD%20BSM2%20with%20decay%20modifications%20and%20reactive%20settler-990000?style=for-the-badge)](https://github.com/wwtmodels/Plant-Wide-Models/releases/download/BSM2_decay_reactivesettler/BSM2_decay_reactivesettler.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Plant-Wide-Models/BSM2_decay_reactivesettler/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Plant-Wide-Models) 
 
-<strong>2. BSM2 with GHG emissions </strong>  
+<strong>2. BSM2 with GHGs emissions </strong>  
 
 The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina), Laura Snip, Lluis Corominas, [Peter A Vanrolleghem](https://github.com/modelEAU), [Krist V. Gernaey](https://github.com/kristgernaey) and [Ulf Jeppsson](https://github.com/ulfjeppsson). The model is described in the following paper: 
 
