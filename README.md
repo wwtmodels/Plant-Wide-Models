@@ -6,7 +6,7 @@ This repository contains the different implementations of the plant-wide models 
 
 The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina), [Ramesh Saagi](https://github.com/rsaagi), [Krist V. Gernaey](https://github.com/kristgernaey) and [Ulf Jeppsson](https://github.com/ulfjeppsson). The model is described in the following paper: 
 
-[Flores-Alsina, X., Gernaey, K. V., & Jeppsson, U. (2012). Benchmarking biological nutrient removal in wastewater treatment plants: Influence of mathematical model assumptions. Water Science and Technology, 65(8), 1496–1505.](https://doi.org/10.2166/wst.2012.039).
+[Flores-Alsina, X., Gernaey, K. V., & Jeppsson, U. (2012). Benchmarking biological nutrient removal in wastewater treatment plants: Influence of mathematical model assumptions. Water Science and Technology, 65(8), 1496–1505.](https://doi.org/10.2166/wst.2012.039)
 
 
 This version of the model is adapated to be run in Matlab 2019b (or newer).
@@ -17,7 +17,7 @@ This version of the model is adapated to be run in Matlab 2019b (or newer).
 
 The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina), Laura Snip, Lluis Corominas, [Peter A Vanrolleghem](https://github.com/modelEAU), [Krist V. Gernaey](https://github.com/kristgernaey) and [Ulf Jeppsson](https://github.com/ulfjeppsson). The model is described in the following paper: 
 
-[Flores-Alsina, X., Arnell, M., Amerlinck, Y., Corominas, Ll., Gernaey, K.V., Guo, L., Lindblom, E., Nopens, I., Porro, J., Shaw, A., Snip, L., Vanrolleghem and P.A., Jeppsson, U. (2014). Balancing effluent quality, economical cost and greenhouse gas emissions during the evaluation of plant-wide wastewater treatment plant control strategies. Sci. Tot. Env., 466-467, 616-624.](https://doi.org/10.1016/j.scitotenv.2013.07.046). 
+[Flores-Alsina, X., Arnell, M., Amerlinck, Y., Corominas, Ll., Gernaey, K.V., Guo, L., Lindblom, E., Nopens, I., Porro, J., Shaw, A., Snip, L., Vanrolleghem and P.A., Jeppsson, U. (2014). Balancing effluent quality, economical cost and greenhouse gas emissions during the evaluation of plant-wide wastewater treatment plant control strategies. Sci. Tot. Env., 466-467, 616-624.](https://doi.org/10.1016/j.scitotenv.2013.07.046)
 
 This version of the model is adapated to be run in Matlab 2019b (or newer).
 
@@ -28,7 +28,7 @@ This version of the model is adapated to be run in Matlab 2019b (or newer).
 
 The Main developers are: [Kimberly Solon](https://github.com/KimberlySolon), [Xavier Flores-Alsina](https://github.com/xfalsina),Christian Kazadi-Mbamba, Damien Batstone, [Krist V. Gernaey](https://github.com/kristgernaey) and [Ulf Jeppsson](https://github.com/ulfjeppsson). The model is described in the following paper: 
 
-[Solon, K., Flores-Alsina, X., Mbamba, C. K., Volcke, E. I. P., Tait, S., Batstone, D., Gernaey, K. V., & Jeppsson, U. (2015). Effects of ionic strength and ion pairing on (plant-wide) modelling of anaerobic digestion. Water Research, 70, 235–245.](https://doi.org/10.1016/j.watres.2014.11.035). 
+[Solon, K., Flores-Alsina, X., Mbamba, C. K., Volcke, E. I. P., Tait, S., Batstone, D., Gernaey, K. V., & Jeppsson, U. (2015). Effects of ionic strength and ion pairing on (plant-wide) modelling of anaerobic digestion. Water Research, 70, 235–245.](https://doi.org/10.1016/j.watres.2014.11.035) 
 
 This version of the model is adapated to be run in Matlab 2019b (or newer).
 
@@ -39,7 +39,7 @@ This version of the model is adapated to be run in Matlab 2019b (or newer).
 
 The Main developers are: [Kimberly Solon](https://github.com/KimberlySolon), [Xavier Flores-Alsina](https://github.com/xfalsina), Christian Kazadi-Mbamba, Damien Batstone, [Krist V. Gernaey](https://github.com/kristgernaey) and [Ulf Jeppsson](https://github.com/ulfjeppsson). The model is described in the following paper: 
 
-[Solon. K, Flores-Alsina X, Kazadi-Mbama C., Ikumi D, Volcke E.I.P, Vaneeckhaute C., Ekama G., Vanrolleghem P.A, Batstone D.J, Gernaey K.V., Jeppsson U.(2017) Plant-wide modelling of phosphorus transformations in biological nutrient removal wastewater treatment systems: Impacts of control and operational strategies. Water Research, 113, 97-110.](https://doi.org/10.1016/j.watres.2017.02.007). 
+[Solon. K, Flores-Alsina X, Kazadi-Mbama C., Ikumi D, Volcke E.I.P, Vaneeckhaute C., Ekama G., Vanrolleghem P.A, Batstone D.J, Gernaey K.V., Jeppsson U.(2017) Plant-wide modelling of phosphorus transformations in biological nutrient removal wastewater treatment systems: Impacts of control and operational strategies. Water Research, 113, 97-110.](https://doi.org/10.1016/j.watres.2017.02.007)
 
 This version of the model is adapated to be run in Matlab 2019b (or newer).
 
