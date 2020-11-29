@@ -6,7 +6,7 @@ This repository contains the different implementations of the plant-wide models 
 
 The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina), [Ramesh Saagi](https://github.com/rsaagi), [Krist V. Gernaey](https://github.com/kristgernaey) and [Ulf Jeppsson](https://github.com/ulfjeppsson). The model is described in the following paper: 
 
-[Flores-Alsina, X., Gernaey, K. V., & Jeppsson, U. (2012). Benchmarking biological nutrient removal in wastewater treatment plants: Influence of mathematical model assumptions. Water Science and Technology, 65(8), 1496–1505.](https://doi.org/10.2166/wst.2012.039)
+[Flores-Alsina, X., Gernaey, K. V., & Jeppsson, U. (2012). Benchmarking biological nutrient removal in wastewater treatment plants: Influence of mathematical model assumptions. Water Science and Technology, 65 (8), 1496–1505.](https://doi.org/10.2166/wst.2012.039)
 
 
 This version of the model is adapated to be run in Matlab 2019b (or newer).
@@ -26,7 +26,7 @@ This version of the model is adapated to be run in Matlab 2019b (or newer).
 
 <strong>3. BSM2 with ion activity corrections </strong>  
 
-The Main developers are: [Kimberly Solon](https://github.com/KimberlySolon), [Xavier Flores-Alsina](https://github.com/xfalsina),Christian Kazadi-Mbamba, Damien Batstone, [Krist V. Gernaey](https://github.com/kristgernaey) and [Ulf Jeppsson](https://github.com/ulfjeppsson). The model is described in the following paper: 
+The Main developers are: [Kimberly Solon](https://github.com/KimberlySolon), [Xavier Flores-Alsina](https://github.com/xfalsina), Christian Kazadi-Mbamba, Damien Batstone, [Krist V. Gernaey](https://github.com/kristgernaey) and [Ulf Jeppsson](https://github.com/ulfjeppsson). The model is described in the following paper: 
 
 [Solon, K., Flores-Alsina, X., Mbamba, C. K., Volcke, E. I. P., Tait, S., Batstone, D., Gernaey, K. V., & Jeppsson, U. (2015). Effects of ionic strength and ion pairing on (plant-wide) modelling of anaerobic digestion. Water Research, 70, 235–245.](https://doi.org/10.1016/j.watres.2014.11.035) 
 
