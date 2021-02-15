@@ -48,7 +48,7 @@ This version of the model is adapated to be run in Matlab 2019b (or newer).
 
 <strong>5. BSM2-P with THP and/or reject water treatment options </strong>  
 
-The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina), [Damien J Batstone](https://github.com/damienbatstone) and [Krist V. Gernaey](https://github.com/kristgernaey) The model is described in the following paper: 
+The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina), [Damien J Batstone](https://github.com/damienbatstone) and [Krist V. Gernaey](https://github.com/kristgernaey). The model is described in the following paper: 
 
 [Flores-Alsina X., Ramin E., Ikumi D., Harding T., Batstone D.J, Brouckaert C., Sotemann S., Gernaey K.V. (2021). Model based assessment of new sludge management strategies in wastewater treatment systems using a plant wide approach. Water Research. 190, 116714](https://www.sciencedirect.com/science/article/pii/S0043135420312495?via%3Dihub)
 
