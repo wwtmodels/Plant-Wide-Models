@@ -26,7 +26,7 @@ This version of the model is adapated to be run in Matlab 2019b (or newer).
 
 <strong>3. BSM2 with ion activity corrections </strong>  
 
-The Main developers are: [Kimberly Solon](https://github.com/KimberlySolon), [Xavier Flores-Alsina](https://github.com/xfalsina), Christian Kazadi-Mbamba, Damien Batstone, [Krist V. Gernaey](https://github.com/kristgernaey) and [Ulf Jeppsson](https://github.com/ulfjeppsson). The model is described in the following paper: 
+The Main developers are: [Kimberly Solon](https://github.com/KimberlySolon), [Xavier Flores-Alsina](https://github.com/xfalsina), Christian Kazadi-Mbamba, [Damien J Batstone](https://github.com/damienbatstone), [Krist V. Gernaey](https://github.com/kristgernaey) and [Ulf Jeppsson](https://github.com/ulfjeppsson). The model is described in the following paper: 
 
 [Solon, K., Flores-Alsina, X., Mbamba, C. K., Volcke, E. I. P., Tait, S., Batstone, D., Gernaey, K. V., & Jeppsson, U. (2015). Effects of ionic strength and ion pairing on (plant-wide) modelling of anaerobic digestion. Water Research, 70, 235–245.](https://doi.org/10.1016/j.watres.2014.11.035) 
 
@@ -37,12 +37,25 @@ This version of the model is adapated to be run in Matlab 2019b (or newer).
 
 <strong>4. BSM2 with P, S and Fe interactions </strong>  
 
-The Main developers are: [Kimberly Solon](https://github.com/KimberlySolon), [Xavier Flores-Alsina](https://github.com/xfalsina), Christian Kazadi-Mbamba, Damien Batstone, [Krist V. Gernaey](https://github.com/kristgernaey) and [Ulf Jeppsson](https://github.com/ulfjeppsson). The model is described in the following paper: 
+The Main developers are: [Kimberly Solon](https://github.com/KimberlySolon), [Xavier Flores-Alsina](https://github.com/xfalsina), Christian Kazadi-Mbamba, [Damien J Batstone](https://github.com/damienbatstone), [Krist V. Gernaey](https://github.com/kristgernaey) and [Ulf Jeppsson](https://github.com/ulfjeppsson). The model is described in the following paper: 
 
 [Solon. K, Flores-Alsina X, Kazadi-Mbama C., Ikumi D, Volcke E.I.P, Vaneeckhaute C., Ekama G., Vanrolleghem P.A, Batstone D.J, Gernaey K.V., Jeppsson U.(2017) Plant-wide modelling of phosphorus transformations in biological nutrient removal wastewater treatment systems: Impacts of control and operational strategies. Water Research, 113, 97-110.](https://doi.org/10.1016/j.watres.2017.02.007)
 
 This version of the model is adapated to be run in Matlab 2019b (or newer).
 
 [![ADM](https://img.shields.io/badge/DOWNLOAD%20BSM2%20with%20P%20S%20Fe%20interactions-990000?style=for-the-badge)](https://github.com/wwtmodels/Plant-Wide-Models/releases/download/v4/BSM2.PSFe.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Plant-Wide-Models/v4/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Plant-Wide-Models) 
+
+
+<strong>5. BSM2-P with THP and/or reject water treatment options </strong>  
+
+The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina), [Damien J Batstone](https://github.com/damienbatstone) and [Krist V. Gernaey](https://github.com/kristgernaey) The model is described in the following paper: 
+
+[Flores-Alsina X., Ramin E., Ikumi D., Harding T., Batstone D.J, Brouckaert C., Sotemann S., Gernaey K.V. (2021). Model based assessment of new sludge management strategies in wastewater treatment systems using a plant wide approach. Water Research. 190, 116714](https://www.sciencedirect.com/science/article/pii/S0043135420312495?via%3Dihub)
+
+This version of the model is adapated to be run in Matlab 2019b (or newer).
+
+[![ADM](https://img.shields.io/badge/DOWNLOAD%20BSM2%20with%20P%20S%20Fe%20interactions-990000?style=for-the-badge)](https://github.com/wwtmodels/Plant-Wide-Models/releases/download/v4/BSM2.PSFe.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Plant-Wide-Models/v4/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Plant-Wide-Models) 
+
+
 
 ![logo](WWTMlogo.png)
