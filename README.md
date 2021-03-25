@@ -54,7 +54,7 @@ The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina), [D
 
 This version of the model is adapated to be run in Matlab 2019b (or newer).
 
-[![ADM](https://img.shields.io/badge/DOWNLOAD%20BSM2P%20with%20reject%20water%20treatment%20options-990000?style=for-the-badge)](https://github.com/wwtmodels/Plant-Wide-Models/releases/download/v5/BSM2reject.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Plant-Wide-Models/v5/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Plant-Wide-Models) 
+[![ADM](https://img.shields.io/badge/DOWNLOAD%20BSM2P%20with%20reject%20water%20treatment%20options-990000?style=for-the-badge)](https://github.com/wwtmodels/Plant-Wide-Models/releases/download/v5/BSM2.PSFe.reject.water.treatment.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Plant-Wide-Models/v5/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Plant-Wide-Models) 
 
 
 
