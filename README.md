@@ -56,6 +56,16 @@ This version of the model is adapated to be run in Matlab 2019b (or newer).
 
 [![ADM](https://img.shields.io/badge/DOWNLOAD%20BSM2P%20with%20reject%20water%20treatment%20options-990000?style=for-the-badge)](https://github.com/wwtmodels/Plant-Wide-Models/releases/download/v5/BSM2.PSFe.reject.water.treatment.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Plant-Wide-Models/v5/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Plant-Wide-Models) 
 
+<strong>6. Industrial WWTP </strong>  
+
+The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina) and [Krist V. Gernaey](https://github.com/kristgernaey). The model is described in the following paper: 
+
+[Monje V., Owsianiak M., Junicke H., Kjellberg K., Gernaey K,V., Flores-Alsina X. (2022). Economic, technical, and environmental evaluation of retrofitting scenarios in a full-scale industrial wastewater treatment system. Water Research. 223, 118997]
+(https://doi.org/10.1016/j.watres.2022.118997)
+
+This version of the model is adapated to be run in Matlab 2019b (or newer).
+
+[![ADM](https://img.shields.io/badge/DOWNLOAD%20BSM2P%20with%20reject%20water%20treatment%20options-990000?style=for-the-badge)](https://github.com/wwtmodels/Plant-Wide-Models/releases/download/v5/BSM2.PSFe.reject.water.treatment.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Plant-Wide-Models/v5/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Plant-Wide-Models) 
 
 
 
