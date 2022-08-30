@@ -60,8 +60,7 @@ This version of the model is adapated to be run in Matlab 2019b (or newer).
 
 The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina) and [Krist V. Gernaey](https://github.com/kristgernaey). The model is described in the following paper: 
 
-[Monje V., Owsianiak M., Junicke H., Kjellberg K., Gernaey K,V., Flores-Alsina X. (2022). Economic, technical, and environmental evaluation of retrofitting scenarios in a full-scale industrial wastewater treatment system. Water Research. 223, 118997]
-(https://doi.org/10.1016/j.watres.2022.118997)
+[Monje V., Owsianiak M., Junicke H., Kjellberg K., Gernaey K,V., Flores-Alsina X. (2022). Economic, technical, and environmental evaluation of retrofitting scenarios in a full-scale industrial wastewater treatment system. Water Research. 223, 118997](https://doi.org/10.1016/j.watres.2022.118997)
 
 This version of the model is adapated to be run in Matlab 2019b (or newer).
 
