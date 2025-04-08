@@ -66,6 +66,19 @@ This version of the model is adapated to be run in Matlab 2019b (or newer).
 
 [![ADM](https://img.shields.io/badge/DOWNLOAD%20iWWTPmodel-990000?style=for-the-badge)](https://github.com/wwtmodels/Plant-Wide-Models/releases/download/v6/plant.wide.model.-.Github.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Plant-Wide-Models/v6/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Plant-Wide-Models) 
 
+<strong>7. BSM2 reject  </strong>  
+
+The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina) and [Krist V. Gernaey](https://github.com/kristgernaey). The model is described in the following paper: 
+
+[Flores-Alsina, X., Vangsgaard, A. K., Uri-Carreño, N., Nielsen, P. H., & Gernaey, K. V. (2025). Holistic assessment of management strategies and technological solutions handling anaerobic digester supernatants in wastewater treatment plants. Chemical Engineering Journal, 508, 160934](https://doi.org/10.1016/j.cej.2025.160934)
+
+This version of the model is adapated to be run in Matlab 2022 (or newer).
+
+[![ADM](https://img.shields.io/badge/DOWNLOAD%20BSM2%20with%20REJECT%20emissions-990000?style=for-the-badge)](https://github.com/wwtmodels/Plant-Wide-Models/releases/download/v3/BSM2.with.GHG.emissions.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Plant-Wide-Models/v3/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Plant-Wide-Models) 
+
+
+
+
 
 
 ![logo](WWTMlogo.png)
