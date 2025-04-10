@@ -74,7 +74,7 @@ The Main developers are: [Xavier Flores-Alsina](https://github.com/xfalsina) and
 
 This version of the model is adapated to be run in Matlab 2022 (or newer).
 
-[![ADM](https://img.shields.io/badge/DOWNLOAD%20BSM2%20with%20REJECT%20emissions-990000?style=for-the-badge)](https://github.com/wwtmodels/Plant-Wide-Models/releases/download/v3/BSM2.with.GHG.emissions.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Plant-Wide-Models/v3/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Plant-Wide-Models) 
+[![ADM](https://img.shields.io/badge/DOWNLOAD%20BSM2%20with%20REJECT%20emissions-990000?style=for-the-badge)](https://github.com/wwtmodels/Plant-Wide-Models/releases/download/v7/BSM2.reject.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Plant-Wide-Models/v3/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Plant-Wide-Models) 
 
 
 
