@@ -81,7 +81,7 @@ This version of the model is adapated to be run in Matlab 2022 (or newer).
 
 The Main developers are: [Tianyu Lei](https://github.com/constianlei),[Xavier Flores-Alsina](https://github.com/xfalsina) and [Krist V. Gernaey](https://github.com/kristgernaey). The model is described in the following paper: 
 
-[Tianyu, L., Jaime, W. O., Larsen, S. B., Siying, C., Kasper, K., Gernaey, K. V., & Xavier, F. A. (2026). Towards Operational Net-Zero Pathways in Industrial Wastewater Treatment Systems Using Digital Decision Support Tools. Water Research, 125639.](https://doi.org/10.1016/j.watres.2022.118997)
+[Lei, T., Whale-Obrero, J., Larsen, S. B., Siying, C., Kjellberg, K., Gernaey, K. V., & Flores-Alsina, F. A. (2026). Towards Operational Net-Zero Pathways in Industrial Wastewater Treatment Systems Using Digital Decision Support Tools. Water Research, 125639.](https://doi.org/10.1016/j.watres.2022.118997)
 
 This version of the model is adapated to be run in Matlab 2019b (or newer).
 
