@@ -85,7 +85,7 @@ The Main developers are: [Tianyu Lei](https://github.com/constianlei),[Xavier Fl
 
 This version of the model is adapated to be run in Matlab 2019b (or newer).
 
-[![ADM](https://img.shields.io/badge/DOWNLOAD%20iWWTPmodel-990000?style=for-the-badge)](https://github.com/wwtmodels/Plant-Wide-Models/releases/download/v8/GHGplantwide.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Plant-Wide-Models/v8/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Plant-Wide-Models) 
+[![ADM](https://img.shields.io/badge/DOWNLOAD%20iWWTPmodel-990000?style=for-the-badge)](https://github.com/wwtmodels/Plant-Wide-Models/releases/download/v8/GHGplantwide_v1.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Plant-Wide-Models/v8/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Plant-Wide-Models) 
 
 
 
